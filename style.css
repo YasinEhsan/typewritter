@@ -2,7 +2,11 @@ body {
   background-color:#ce3635;
   text-align: center;
   color:#fff;
-  padding-top:20em;
+}
+
+* { color:#fff; text-decoration: none;}
+
+.typewriterr{
   height: 100vh;
  display:flex;
  flex-direction:column;
@@ -11,5 +15,3 @@ body {
  text-align:center;
  padding:0 20px;
 }
-
-* { color:#fff; text-decoration: none;}
